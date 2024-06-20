@@ -7,6 +7,8 @@
 
 <p align="center">⚡ With Sabnnzbd and NZB download button</p>
 
+<p align="center">⚡ With Dark and Light theme</p>
+
 <h3 align="center">Extract zip in root <a href="https://github.com/spotweb/spotweb" target="_blank" rel="noreferrer">Spotweb</a> public_html folder</h3>
 <p align="center"><img src="https://lh4.googleusercontent.com/proxy/Lj_OnppFEf6QM296XL5wDMFkYKRQ0wlUcwm_TliS9vDdshbRItBkzijFcpG_GRun5nO_FtP9P0uWLTy9xjeLOuc" alt="We1rdo version 2.0"></p>
 
