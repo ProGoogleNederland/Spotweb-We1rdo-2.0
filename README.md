@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, The latest Spotweb version is supported</h1>
 <h3 align="center">This is a upgraded default and mobile theme for <a href="https://github.com/spotweb/spotweb" target="_blank" rel="noreferrer">Spotweb</a> bassed on <a href="https://github.com/supershadow/Splendid-Template/tree/master" target="_blank" rel="noreferrer">Splendid</a> for a better overview</h3>
 
-<p align="center">⚡ With WPA Installer</p>
+<p align="center">⚡ With PWA Installer</p>
 
 <p align="center">⚡ With Thumbnails.. no text lines anymore</p>
 
