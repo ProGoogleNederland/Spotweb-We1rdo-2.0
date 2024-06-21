@@ -13,7 +13,7 @@
 <p align="center"><img src="https://lh4.googleusercontent.com/proxy/Lj_OnppFEf6QM296XL5wDMFkYKRQ0wlUcwm_TliS9vDdshbRItBkzijFcpG_GRun5nO_FtP9P0uWLTy9xjeLOuc" alt="We1rdo version 2.0"></p>
 
 <h3 align="center">ISSUES?</h3>
-<p align="center">📫 How to reach me **info@progoogle.nl**</p>
+<p align="center">📫 How to reach me <b>info@progoogle.nl</b></p>
 
 
 
